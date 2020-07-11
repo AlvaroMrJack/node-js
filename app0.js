@@ -1,0 +1,5 @@
+console.log(Buffer.alloc(10))
+console.log(process)
+console.log(process.platform)
+console.log(process.execPath)
+console.log(process.env)
