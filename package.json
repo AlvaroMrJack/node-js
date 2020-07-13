@@ -1,0 +1,25 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba de Node JS",
+  "main": "/node_filesystem/app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvaroMrJack/node-js.git"
+  },
+  "author": "Alvaro Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlvaroMrJack/node-js/issues"
+  },
+  "homepage": "https://github.com/AlvaroMrJack/node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
